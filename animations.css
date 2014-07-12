@@ -233,3 +233,146 @@
 #yellow-button {
 	background-position: 0px -128px;
 }
+
+@-webkit-keyframes "moving-decorations" {
+	from {
+		background-position-x: 0px;
+	}
+	to {
+		background-position-x: -64px;
+	}
+}
+
+.decorations-u, .decorations-d {
+	background-image: url(decorations.png);
+	width: 1024px;
+	height: 32px;
+	-webkit-animation: "moving-decorations" 1.28s linear infinite;
+}
+
+.decorations-u {
+	background-position-y: -32px;
+}
+
+.decorations-d {
+	background-position-y: 0px;
+}
+
+#decorations-u, #decorations-d {
+	transition: top .5s ease;
+}
+
+#decorations-u {
+	top: -32px;
+}
+
+#decorations-d {
+	top: 576px;
+}
+
+#decorations-u.in {
+	top: 0px;
+}
+
+#decorations-d.in {
+	top: 544px;
+}
+
+#bg-image {
+	background-color: black;
+	width: 100%;
+	height: 100%;
+	background-image: url(bgs.png);
+	background-repeat: no-repeat;
+	background-position-x: 128px;
+	transition: opacity 1s ease-in-out, background-position-y .5s ease-in-out;
+	opacity: 0;
+}
+
+#bg-image.in {
+	opacity: 1;
+}
+
+#bg-image.fr0 {
+	background-position-y: 0px;
+}
+
+#bg-image.fr1 {
+	background-position-y: -576px;
+}
+
+#title-text {
+	transition: top 1s ease;
+	left: 261px;
+	top: -188px;
+}
+
+#title-text.in {
+	top: 96px;
+}
+
+#title-text.out {
+	top: 576px;
+}
+
+#black-panel-d {
+	background-color: black;
+	top: initial;
+	bottom: 0px;
+	width: 100%;
+	height: 0px;
+	transition: height .5s ease;
+}
+
+#black-panel-d.in {
+	height: 128px;
+}
+
+.title-button {
+	transition: top 1s ease;
+	top: 576px;
+}
+
+.title-button.in {
+	top: 480px;
+}
+
+#title-new-game {
+	left: 216px;
+}
+
+#title-load-data {
+	left: 528px;
+}
+
+#save-title {
+	left: 160px;
+	top: -106px;
+	transition: top .5s ease;
+}
+
+#save-title.in {
+	top: 32px;
+}
+
+.save-slot {
+	left: 256px;
+	top: 100%;
+	transition: top 1s ease;
+}
+
+#save-slot-1.in {
+	top: 160px;
+}
+
+#save-slot-2.in {
+	top: 288px;
+}
+
+#save-slot-3.in {
+	top: 416px;
+}
+
+.save-slot.out {
+	top: -96px;
+}

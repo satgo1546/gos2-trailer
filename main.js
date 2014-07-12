@@ -14,7 +14,15 @@ var startTime = new Date().getTime(),
 		aSlime = $("#slime"),
 		aGreenGear = $("#green-gear"),
 		aNormalButton = $("#normal-button"),
-		aYellowButton = $("#yellow-button");
+		aYellowButton = $("#yellow-button"),
+		aDecorationsU = $("#decorations-u"),
+		aDecorationsD = $("#decorations-d"),
+		aBgImg = $("#bg-image"),
+		aTitleText = $("#title-text"),
+		aBlackPanelD = $("#black-panel-d"),
+		aTitleButtons = $(".title-button"),
+		aSaveTitle = $("#save-title"),
+		aSaveSlots = $(".save-slot");
 
 function animeLog(info) {
 	aLogger.text(info);
@@ -47,7 +55,6 @@ function drawSlime() {
 	if (slimeFrame > 4) {
 		slimeFrame = 0;
 	}
-	console.log(slimeFrame);
 	setTimeout(drawSlime, 170);
 }
 
@@ -171,6 +178,52 @@ $(function () {
 	setTimeout(function () {
 		aGrassBlockGrowingFinal.css("top", "576px");
 	}, 44500);
+	
+	setTimeout(function () {
+		aDecorationsU.addClass("in");
+		aDecorationsD.addClass("in");
+	}, 46000);
+	
+	setTimeout(function () {
+		aBgImg.addClass("in");
+	}, 46500);
+	
+	setTimeout(function () {
+		aTitleText.addClass("in");
+	}, 48000);
+	
+	setTimeout(function () {
+		aDecorationsD.css("top", "416px");
+		aBlackPanelD.addClass("in");
+		aTitleButtons.addClass("in");
+	}, 49000);
+	
+	setTimeout(function () {
+		aTitleText.addClass("out");
+		aDecorationsD.css("top", "544px");
+		aBlackPanelD.removeClass("in");
+		aTitleButtons.removeClass("in");
+		aBgImg.removeClass("fr0").addClass("fr1");
+		aSaveTitle.addClass("in");
+	}, 50500);
+	
+	setTimeout(function () {
+		aSaveSlots.addClass("in");
+	}, 51000);
+	
+	setTimeout(function () {
+		aSaveTitle.removeClass("in");
+		aSaveSlots.removeClass("in").addClass("out");
+	}, 52500);
+	
+	setTimeout(function () {
+		aDecorationsU.removeClass("in");
+		aDecorationsD.css("top", "100%");
+	}, 53000);
+	
+	setTimeout(function () {
+		aBgImg.removeClass("in");
+	}, 53500);
 	
 	/*
 	setTimeout(function () {
