@@ -1,0 +1,7729 @@
+.superstage {
+  background-image: url(stage-small.png);
+  width: 32px;
+  height: 32px;
+  position: absolute;
+	opacity: 0.01;
+}
+@-webkit-keyframes "superstage-4-anime" {
+  from {
+    left: 2014px;
+    top: 113px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-4 {
+  background-position: 0px -128px;
+  -webkit-animation: "superstage-4-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-5-anime" {
+  from {
+    left: 1819px;
+    top: 330px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-5 {
+  background-position: 0px -160px;
+  -webkit-animation: "superstage-5-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-6-anime" {
+  from {
+    left: -29px;
+    top: -184px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-6 {
+  background-position: 0px -192px;
+  -webkit-animation: "superstage-6-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-7-anime" {
+  from {
+    left: -681px;
+    top: 371px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-7 {
+  background-position: 0px -224px;
+  -webkit-animation: "superstage-7-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-8-anime" {
+  from {
+    left: -327px;
+    top: 588px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-8 {
+  background-position: 0px -256px;
+  -webkit-animation: "superstage-8-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-9-anime" {
+  from {
+    left: 497px;
+    top: 727px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-9 {
+  background-position: 0px -288px;
+  -webkit-animation: "superstage-9-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-10-anime" {
+  from {
+    left: 1297px;
+    top: 284px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-10 {
+  background-position: 0px -320px;
+  -webkit-animation: "superstage-10-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-11-anime" {
+  from {
+    left: -970px;
+    top: -158px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-11 {
+  background-position: 0px -352px;
+  -webkit-animation: "superstage-11-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-12-anime" {
+  from {
+    left: 1653px;
+    top: -340px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-12 {
+  background-position: 0px -384px;
+  -webkit-animation: "superstage-12-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-13-anime" {
+  from {
+    left: -796px;
+    top: -252px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-13 {
+  background-position: 0px -416px;
+  -webkit-animation: "superstage-13-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-14-anime" {
+  from {
+    left: -428px;
+    top: -385px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-14 {
+  background-position: 0px -448px;
+  -webkit-animation: "superstage-14-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-15-anime" {
+  from {
+    left: 1796px;
+    top: -53px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-15 {
+  background-position: 0px -480px;
+  -webkit-animation: "superstage-15-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-16-anime" {
+  from {
+    left: -196px;
+    top: -301px;
+    opacity: 0;
+  }
+  to {
+    left: 0px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-16 {
+  background-position: 0px -512px;
+  -webkit-animation: "superstage-16-anime" 6s ease 2s 1;
+  left: 0px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-21-anime" {
+  from {
+    left: 371px;
+    top: -97px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-21 {
+  background-position: -32px -128px;
+  -webkit-animation: "superstage-21-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-22-anime" {
+  from {
+    left: 1962px;
+    top: 753px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-22 {
+  background-position: -32px -160px;
+  -webkit-animation: "superstage-22-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-23-anime" {
+  from {
+    left: 1956px;
+    top: 954px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-23 {
+  background-position: -32px -192px;
+  -webkit-animation: "superstage-23-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-24-anime" {
+  from {
+    left: -918px;
+    top: -119px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-24 {
+  background-position: -32px -224px;
+  -webkit-animation: "superstage-24-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-25-anime" {
+  from {
+    left: 1839px;
+    top: -420px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-25 {
+  background-position: -32px -256px;
+  -webkit-animation: "superstage-25-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-26-anime" {
+  from {
+    left: 439px;
+    top: -452px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-26 {
+  background-position: -32px -288px;
+  -webkit-animation: "superstage-26-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-28-anime" {
+  from {
+    left: 930px;
+    top: 968px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-28 {
+  background-position: -32px -352px;
+  -webkit-animation: "superstage-28-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-29-anime" {
+  from {
+    left: 723px;
+    top: 683px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-29 {
+  background-position: -32px -384px;
+  -webkit-animation: "superstage-29-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-30-anime" {
+  from {
+    left: -885px;
+    top: -230px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-30 {
+  background-position: -32px -416px;
+  -webkit-animation: "superstage-30-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-31-anime" {
+  from {
+    left: 567px;
+    top: 908px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-31 {
+  background-position: -32px -448px;
+  -webkit-animation: "superstage-31-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-32-anime" {
+  from {
+    left: 1824px;
+    top: -44px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-32 {
+  background-position: -32px -480px;
+  -webkit-animation: "superstage-32-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-33-anime" {
+  from {
+    left: 565px;
+    top: -251px;
+    opacity: 0;
+  }
+  to {
+    left: 32px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-33 {
+  background-position: -32px -512px;
+  -webkit-animation: "superstage-33-anime" 6s ease 2s 1;
+  left: 32px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-38-anime" {
+  from {
+    left: 451px;
+    top: -227px;
+    opacity: 0;
+  }
+  to {
+    left: 64px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-38 {
+  background-position: -64px -128px;
+  -webkit-animation: "superstage-38-anime" 6s ease 2s 1;
+  left: 64px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-39-anime" {
+  from {
+    left: 488px;
+    top: -186px;
+    opacity: 0;
+  }
+  to {
+    left: 64px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-39 {
+  background-position: -64px -160px;
+  -webkit-animation: "superstage-39-anime" 6s ease 2s 1;
+  left: 64px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-40-anime" {
+  from {
+    left: 437px;
+    top: -253px;
+    opacity: 0;
+  }
+  to {
+    left: 64px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-40 {
+  background-position: -64px -192px;
+  -webkit-animation: "superstage-40-anime" 6s ease 2s 1;
+  left: 64px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-41-anime" {
+  from {
+    left: 1631px;
+    top: -24px;
+    opacity: 0;
+  }
+  to {
+    left: 64px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-41 {
+  background-position: -64px -224px;
+  -webkit-animation: "superstage-41-anime" 6s ease 2s 1;
+  left: 64px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-42-anime" {
+  from {
+    left: -822px;
+    top: -322px;
+    opacity: 0;
+  }
+  to {
+    left: 64px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-42 {
+  background-position: -64px -256px;
+  -webkit-animation: "superstage-42-anime" 6s ease 2s 1;
+  left: 64px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-45-anime" {
+  from {
+    left: 499px;
+    top: 570px;
+    opacity: 0;
+  }
+  to {
+    left: 64px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-45 {
+  background-position: -64px -352px;
+  -webkit-animation: "superstage-45-anime" 6s ease 2s 1;
+  left: 64px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-46-anime" {
+  from {
+    left: 788px;
+    top: 724px;
+    opacity: 0;
+  }
+  to {
+    left: 64px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-46 {
+  background-position: -64px -384px;
+  -webkit-animation: "superstage-46-anime" 6s ease 2s 1;
+  left: 64px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-47-anime" {
+  from {
+    left: 1175px;
+    top: 1015px;
+    opacity: 0;
+  }
+  to {
+    left: 64px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-47 {
+  background-position: -64px -416px;
+  -webkit-animation: "superstage-47-anime" 6s ease 2s 1;
+  left: 64px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-48-anime" {
+  from {
+    left: -579px;
+    top: 659px;
+    opacity: 0;
+  }
+  to {
+    left: 64px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-48 {
+  background-position: -64px -448px;
+  -webkit-animation: "superstage-48-anime" 6s ease 2s 1;
+  left: 64px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-49-anime" {
+  from {
+    left: 1930px;
+    top: 163px;
+    opacity: 0;
+  }
+  to {
+    left: 64px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-49 {
+  background-position: -64px -480px;
+  -webkit-animation: "superstage-49-anime" 6s ease 2s 1;
+  left: 64px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-50-anime" {
+  from {
+    left: 1047px;
+    top: 638px;
+    opacity: 0;
+  }
+  to {
+    left: 64px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-50 {
+  background-position: -64px -512px;
+  -webkit-animation: "superstage-50-anime" 6s ease 2s 1;
+  left: 64px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-55-anime" {
+  from {
+    left: -287px;
+    top: 21px;
+    opacity: 0;
+  }
+  to {
+    left: 96px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-55 {
+  background-position: -96px -128px;
+  -webkit-animation: "superstage-55-anime" 6s ease 2s 1;
+  left: 96px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-56-anime" {
+  from {
+    left: 60px;
+    top: -346px;
+    opacity: 0;
+  }
+  to {
+    left: 96px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-56 {
+  background-position: -96px -160px;
+  -webkit-animation: "superstage-56-anime" 6s ease 2s 1;
+  left: 96px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-57-anime" {
+  from {
+    left: 1302px;
+    top: 1070px;
+    opacity: 0;
+  }
+  to {
+    left: 96px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-57 {
+  background-position: -96px -192px;
+  -webkit-animation: "superstage-57-anime" 6s ease 2s 1;
+  left: 96px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-58-anime" {
+  from {
+    left: 657px;
+    top: 895px;
+    opacity: 0;
+  }
+  to {
+    left: 96px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-58 {
+  background-position: -96px -224px;
+  -webkit-animation: "superstage-58-anime" 6s ease 2s 1;
+  left: 96px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-59-anime" {
+  from {
+    left: 872px;
+    top: -246px;
+    opacity: 0;
+  }
+  to {
+    left: 96px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-59 {
+  background-position: -96px -256px;
+  -webkit-animation: "superstage-59-anime" 6s ease 2s 1;
+  left: 96px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-60-anime" {
+  from {
+    left: 991px;
+    top: 969px;
+    opacity: 0;
+  }
+  to {
+    left: 96px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-60 {
+  background-position: -96px -288px;
+  -webkit-animation: "superstage-60-anime" 6s ease 2s 1;
+  left: 96px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-61-anime" {
+  from {
+    left: 1639px;
+    top: 275px;
+    opacity: 0;
+  }
+  to {
+    left: 96px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-61 {
+  background-position: -96px -320px;
+  -webkit-animation: "superstage-61-anime" 6s ease 2s 1;
+  left: 96px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-62-anime" {
+  from {
+    left: -832px;
+    top: 662px;
+    opacity: 0;
+  }
+  to {
+    left: 96px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-62 {
+  background-position: -96px -352px;
+  -webkit-animation: "superstage-62-anime" 6s ease 2s 1;
+  left: 96px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-66-anime" {
+  from {
+    left: 1636px;
+    top: 367px;
+    opacity: 0;
+  }
+  to {
+    left: 96px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-66 {
+  background-position: -96px -480px;
+  -webkit-animation: "superstage-66-anime" 6s ease 2s 1;
+  left: 96px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-67-anime" {
+  from {
+    left: 1097px;
+    top: 705px;
+    opacity: 0;
+  }
+  to {
+    left: 96px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-67 {
+  background-position: -96px -512px;
+  -webkit-animation: "superstage-67-anime" 6s ease 2s 1;
+  left: 96px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-72-anime" {
+  from {
+    left: -756px;
+    top: 254px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-72 {
+  background-position: -128px -128px;
+  -webkit-animation: "superstage-72-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-73-anime" {
+  from {
+    left: 214px;
+    top: -203px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-73 {
+  background-position: -128px -160px;
+  -webkit-animation: "superstage-73-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-74-anime" {
+  from {
+    left: 1684px;
+    top: -317px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-74 {
+  background-position: -128px -192px;
+  -webkit-animation: "superstage-74-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-75-anime" {
+  from {
+    left: -261px;
+    top: -36px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-75 {
+  background-position: -128px -224px;
+  -webkit-animation: "superstage-75-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-76-anime" {
+  from {
+    left: 1338px;
+    top: 624px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-76 {
+  background-position: -128px -256px;
+  -webkit-animation: "superstage-76-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-77-anime" {
+  from {
+    left: 1754px;
+    top: -40px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-77 {
+  background-position: -128px -288px;
+  -webkit-animation: "superstage-77-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-78-anime" {
+  from {
+    left: 1522px;
+    top: 226px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-78 {
+  background-position: -128px -320px;
+  -webkit-animation: "superstage-78-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-79-anime" {
+  from {
+    left: 459px;
+    top: 684px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-79 {
+  background-position: -128px -352px;
+  -webkit-animation: "superstage-79-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-80-anime" {
+  from {
+    left: -840px;
+    top: 744px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-80 {
+  background-position: -128px -384px;
+  -webkit-animation: "superstage-80-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-81-anime" {
+  from {
+    left: 1824px;
+    top: 141px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-81 {
+  background-position: -128px -416px;
+  -webkit-animation: "superstage-81-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-83-anime" {
+  from {
+    left: 1422px;
+    top: -523px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-83 {
+  background-position: -128px -480px;
+  -webkit-animation: "superstage-83-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-84-anime" {
+  from {
+    left: -969px;
+    top: 764px;
+    opacity: 0;
+  }
+  to {
+    left: 128px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-84 {
+  background-position: -128px -512px;
+  -webkit-animation: "superstage-84-anime" 6s ease 2s 1;
+  left: 128px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-89-anime" {
+  from {
+    left: 1151px;
+    top: -315px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-89 {
+  background-position: -160px -128px;
+  -webkit-animation: "superstage-89-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-90-anime" {
+  from {
+    left: 1129px;
+    top: 1051px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-90 {
+  background-position: -160px -160px;
+  -webkit-animation: "superstage-90-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-91-anime" {
+  from {
+    left: -833px;
+    top: 97px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-91 {
+  background-position: -160px -192px;
+  -webkit-animation: "superstage-91-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-92-anime" {
+  from {
+    left: -264px;
+    top: -379px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-92 {
+  background-position: -160px -224px;
+  -webkit-animation: "superstage-92-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-93-anime" {
+  from {
+    left: 1900px;
+    top: 871px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-93 {
+  background-position: -160px -256px;
+  -webkit-animation: "superstage-93-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-94-anime" {
+  from {
+    left: -717px;
+    top: 1047px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-94 {
+  background-position: -160px -288px;
+  -webkit-animation: "superstage-94-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-95-anime" {
+  from {
+    left: 1403px;
+    top: -144px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-95 {
+  background-position: -160px -320px;
+  -webkit-animation: "superstage-95-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-96-anime" {
+  from {
+    left: 1071px;
+    top: 104px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-96 {
+  background-position: -160px -352px;
+  -webkit-animation: "superstage-96-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-97-anime" {
+  from {
+    left: -100px;
+    top: -13px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-97 {
+  background-position: -160px -384px;
+  -webkit-animation: "superstage-97-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-98-anime" {
+  from {
+    left: -526px;
+    top: -507px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-98 {
+  background-position: -160px -416px;
+  -webkit-animation: "superstage-98-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-100-anime" {
+  from {
+    left: 472px;
+    top: 607px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-100 {
+  background-position: -160px -480px;
+  -webkit-animation: "superstage-100-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-101-anime" {
+  from {
+    left: 1351px;
+    top: -104px;
+    opacity: 0;
+  }
+  to {
+    left: 160px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-101 {
+  background-position: -160px -512px;
+  -webkit-animation: "superstage-101-anime" 6s ease 2s 1;
+  left: 160px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-107-anime" {
+  from {
+    left: 823px;
+    top: -364px;
+    opacity: 0;
+  }
+  to {
+    left: 192px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-107 {
+  background-position: -192px -160px;
+  -webkit-animation: "superstage-107-anime" 6s ease 2s 1;
+  left: 192px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-108-anime" {
+  from {
+    left: 1645px;
+    top: 1054px;
+    opacity: 0;
+  }
+  to {
+    left: 192px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-108 {
+  background-position: -192px -192px;
+  -webkit-animation: "superstage-108-anime" 6s ease 2s 1;
+  left: 192px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-109-anime" {
+  from {
+    left: -721px;
+    top: 151px;
+    opacity: 0;
+  }
+  to {
+    left: 192px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-109 {
+  background-position: -192px -224px;
+  -webkit-animation: "superstage-109-anime" 6s ease 2s 1;
+  left: 192px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-110-anime" {
+  from {
+    left: -638px;
+    top: 391px;
+    opacity: 0;
+  }
+  to {
+    left: 192px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-110 {
+  background-position: -192px -256px;
+  -webkit-animation: "superstage-110-anime" 6s ease 2s 1;
+  left: 192px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-111-anime" {
+  from {
+    left: 2014px;
+    top: -499px;
+    opacity: 0;
+  }
+  to {
+    left: 192px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-111 {
+  background-position: -192px -288px;
+  -webkit-animation: "superstage-111-anime" 6s ease 2s 1;
+  left: 192px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-112-anime" {
+  from {
+    left: 19px;
+    top: -417px;
+    opacity: 0;
+  }
+  to {
+    left: 192px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-112 {
+  background-position: -192px -320px;
+  -webkit-animation: "superstage-112-anime" 6s ease 2s 1;
+  left: 192px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-113-anime" {
+  from {
+    left: 1988px;
+    top: 861px;
+    opacity: 0;
+  }
+  to {
+    left: 192px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-113 {
+  background-position: -192px -352px;
+  -webkit-animation: "superstage-113-anime" 6s ease 2s 1;
+  left: 192px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-114-anime" {
+  from {
+    left: 578px;
+    top: 652px;
+    opacity: 0;
+  }
+  to {
+    left: 192px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-114 {
+  background-position: -192px -384px;
+  -webkit-animation: "superstage-114-anime" 6s ease 2s 1;
+  left: 192px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-115-anime" {
+  from {
+    left: -636px;
+    top: -193px;
+    opacity: 0;
+  }
+  to {
+    left: 192px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-115 {
+  background-position: -192px -416px;
+  -webkit-animation: "superstage-115-anime" 6s ease 2s 1;
+  left: 192px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-117-anime" {
+  from {
+    left: 1603px;
+    top: -257px;
+    opacity: 0;
+  }
+  to {
+    left: 192px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-117 {
+  background-position: -192px -480px;
+  -webkit-animation: "superstage-117-anime" 6s ease 2s 1;
+  left: 192px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-118-anime" {
+  from {
+    left: -469px;
+    top: -285px;
+    opacity: 0;
+  }
+  to {
+    left: 192px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-118 {
+  background-position: -192px -512px;
+  -webkit-animation: "superstage-118-anime" 6s ease 2s 1;
+  left: 192px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-123-anime" {
+  from {
+    left: -390px;
+    top: 451px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-123 {
+  background-position: -224px -128px;
+  -webkit-animation: "superstage-123-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-124-anime" {
+  from {
+    left: -213px;
+    top: -211px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-124 {
+  background-position: -224px -160px;
+  -webkit-animation: "superstage-124-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-125-anime" {
+  from {
+    left: 2029px;
+    top: 930px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-125 {
+  background-position: -224px -192px;
+  -webkit-animation: "superstage-125-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-126-anime" {
+  from {
+    left: -105px;
+    top: 59px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-126 {
+  background-position: -224px -224px;
+  -webkit-animation: "superstage-126-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-127-anime" {
+  from {
+    left: -419px;
+    top: 415px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-127 {
+  background-position: -224px -256px;
+  -webkit-animation: "superstage-127-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-128-anime" {
+  from {
+    left: -85px;
+    top: -203px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-128 {
+  background-position: -224px -288px;
+  -webkit-animation: "superstage-128-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-129-anime" {
+  from {
+    left: 936px;
+    top: 1023px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-129 {
+  background-position: -224px -320px;
+  -webkit-animation: "superstage-129-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-130-anime" {
+  from {
+    left: 1078px;
+    top: -163px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-130 {
+  background-position: -224px -352px;
+  -webkit-animation: "superstage-130-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-131-anime" {
+  from {
+    left: 392px;
+    top: -169px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-131 {
+  background-position: -224px -384px;
+  -webkit-animation: "superstage-131-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-132-anime" {
+  from {
+    left: 165px;
+    top: 693px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-132 {
+  background-position: -224px -416px;
+  -webkit-animation: "superstage-132-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-134-anime" {
+  from {
+    left: -418px;
+    top: 984px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-134 {
+  background-position: -224px -480px;
+  -webkit-animation: "superstage-134-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-135-anime" {
+  from {
+    left: 1488px;
+    top: 687px;
+    opacity: 0;
+  }
+  to {
+    left: 224px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-135 {
+  background-position: -224px -512px;
+  -webkit-animation: "superstage-135-anime" 6s ease 2s 1;
+  left: 224px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-138-anime" {
+  from {
+    left: 1361px;
+    top: 176px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 64px;
+    opacity: 1;
+  }
+}
+.superstage-138 {
+  background-position: -256px -64px;
+  -webkit-animation: "superstage-138-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 64px;
+}
+@-webkit-keyframes "superstage-139-anime" {
+  from {
+    left: 197px;
+    top: 744px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-139 {
+  background-position: -256px -96px;
+  -webkit-animation: "superstage-139-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-140-anime" {
+  from {
+    left: 1234px;
+    top: -110px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-140 {
+  background-position: -256px -128px;
+  -webkit-animation: "superstage-140-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-141-anime" {
+  from {
+    left: 388px;
+    top: -539px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-141 {
+  background-position: -256px -160px;
+  -webkit-animation: "superstage-141-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-142-anime" {
+  from {
+    left: 1652px;
+    top: 888px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-142 {
+  background-position: -256px -192px;
+  -webkit-animation: "superstage-142-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-143-anime" {
+  from {
+    left: 1097px;
+    top: 241px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-143 {
+  background-position: -256px -224px;
+  -webkit-animation: "superstage-143-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-144-anime" {
+  from {
+    left: 1182px;
+    top: 506px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-144 {
+  background-position: -256px -256px;
+  -webkit-animation: "superstage-144-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-145-anime" {
+  from {
+    left: -468px;
+    top: 607px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-145 {
+  background-position: -256px -288px;
+  -webkit-animation: "superstage-145-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-146-anime" {
+  from {
+    left: 1418px;
+    top: -331px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-146 {
+  background-position: -256px -320px;
+  -webkit-animation: "superstage-146-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-147-anime" {
+  from {
+    left: 1512px;
+    top: 700px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-147 {
+  background-position: -256px -352px;
+  -webkit-animation: "superstage-147-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-148-anime" {
+  from {
+    left: -779px;
+    top: 301px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-148 {
+  background-position: -256px -384px;
+  -webkit-animation: "superstage-148-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-149-anime" {
+  from {
+    left: 1617px;
+    top: 689px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-149 {
+  background-position: -256px -416px;
+  -webkit-animation: "superstage-149-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-150-anime" {
+  from {
+    left: 1818px;
+    top: 156px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-150 {
+  background-position: -256px -448px;
+  -webkit-animation: "superstage-150-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-152-anime" {
+  from {
+    left: 1043px;
+    top: -397px;
+    opacity: 0;
+  }
+  to {
+    left: 256px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-152 {
+  background-position: -256px -512px;
+  -webkit-animation: "superstage-152-anime" 6s ease 2s 1;
+  left: 256px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-155-anime" {
+  from {
+    left: -647px;
+    top: 767px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 64px;
+    opacity: 1;
+  }
+}
+.superstage-155 {
+  background-position: -288px -64px;
+  -webkit-animation: "superstage-155-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 64px;
+}
+@-webkit-keyframes "superstage-156-anime" {
+  from {
+    left: 889px;
+    top: 958px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-156 {
+  background-position: -288px -96px;
+  -webkit-animation: "superstage-156-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-157-anime" {
+  from {
+    left: -918px;
+    top: -79px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-157 {
+  background-position: -288px -128px;
+  -webkit-animation: "superstage-157-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-158-anime" {
+  from {
+    left: -761px;
+    top: 588px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-158 {
+  background-position: -288px -160px;
+  -webkit-animation: "superstage-158-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-159-anime" {
+  from {
+    left: -177px;
+    top: 912px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-159 {
+  background-position: -288px -192px;
+  -webkit-animation: "superstage-159-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-160-anime" {
+  from {
+    left: 702px;
+    top: -493px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-160 {
+  background-position: -288px -224px;
+  -webkit-animation: "superstage-160-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-161-anime" {
+  from {
+    left: 1454px;
+    top: 666px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-161 {
+  background-position: -288px -256px;
+  -webkit-animation: "superstage-161-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-162-anime" {
+  from {
+    left: -402px;
+    top: -446px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-162 {
+  background-position: -288px -288px;
+  -webkit-animation: "superstage-162-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-163-anime" {
+  from {
+    left: -729px;
+    top: 170px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-163 {
+  background-position: -288px -320px;
+  -webkit-animation: "superstage-163-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-164-anime" {
+  from {
+    left: -665px;
+    top: 35px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-164 {
+  background-position: -288px -352px;
+  -webkit-animation: "superstage-164-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-165-anime" {
+  from {
+    left: 1937px;
+    top: 946px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-165 {
+  background-position: -288px -384px;
+  -webkit-animation: "superstage-165-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-166-anime" {
+  from {
+    left: 1827px;
+    top: -147px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-166 {
+  background-position: -288px -416px;
+  -webkit-animation: "superstage-166-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-167-anime" {
+  from {
+    left: 175px;
+    top: -274px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-167 {
+  background-position: -288px -448px;
+  -webkit-animation: "superstage-167-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-169-anime" {
+  from {
+    left: 1623px;
+    top: -405px;
+    opacity: 0;
+  }
+  to {
+    left: 288px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-169 {
+  background-position: -288px -512px;
+  -webkit-animation: "superstage-169-anime" 6s ease 2s 1;
+  left: 288px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-170-anime" {
+  from {
+    left: 1810px;
+    top: 253px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 0px;
+    opacity: 1;
+  }
+}
+.superstage-170 {
+  background-position: -320px 0px;
+  -webkit-animation: "superstage-170-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 0px;
+}
+@-webkit-keyframes "superstage-171-anime" {
+  from {
+    left: -239px;
+    top: -513px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 32px;
+    opacity: 1;
+  }
+}
+.superstage-171 {
+  background-position: -320px -32px;
+  -webkit-animation: "superstage-171-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 32px;
+}
+@-webkit-keyframes "superstage-172-anime" {
+  from {
+    left: -776px;
+    top: -361px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 64px;
+    opacity: 1;
+  }
+}
+.superstage-172 {
+  background-position: -320px -64px;
+  -webkit-animation: "superstage-172-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 64px;
+}
+@-webkit-keyframes "superstage-173-anime" {
+  from {
+    left: -513px;
+    top: -288px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-173 {
+  background-position: -320px -96px;
+  -webkit-animation: "superstage-173-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-174-anime" {
+  from {
+    left: -35px;
+    top: -380px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-174 {
+  background-position: -320px -128px;
+  -webkit-animation: "superstage-174-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-175-anime" {
+  from {
+    left: 1841px;
+    top: 385px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-175 {
+  background-position: -320px -160px;
+  -webkit-animation: "superstage-175-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-176-anime" {
+  from {
+    left: 137px;
+    top: -414px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-176 {
+  background-position: -320px -192px;
+  -webkit-animation: "superstage-176-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-177-anime" {
+  from {
+    left: -943px;
+    top: 956px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-177 {
+  background-position: -320px -224px;
+  -webkit-animation: "superstage-177-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-178-anime" {
+  from {
+    left: -760px;
+    top: -185px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-178 {
+  background-position: -320px -256px;
+  -webkit-animation: "superstage-178-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-179-anime" {
+  from {
+    left: -642px;
+    top: -515px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-179 {
+  background-position: -320px -288px;
+  -webkit-animation: "superstage-179-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-180-anime" {
+  from {
+    left: 1556px;
+    top: 800px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-180 {
+  background-position: -320px -320px;
+  -webkit-animation: "superstage-180-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-181-anime" {
+  from {
+    left: 1028px;
+    top: -138px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-181 {
+  background-position: -320px -352px;
+  -webkit-animation: "superstage-181-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-182-anime" {
+  from {
+    left: -316px;
+    top: 648px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-182 {
+  background-position: -320px -384px;
+  -webkit-animation: "superstage-182-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-183-anime" {
+  from {
+    left: 1877px;
+    top: -204px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-183 {
+  background-position: -320px -416px;
+  -webkit-animation: "superstage-183-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-184-anime" {
+  from {
+    left: 2032px;
+    top: -387px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-184 {
+  background-position: -320px -448px;
+  -webkit-animation: "superstage-184-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-185-anime" {
+  from {
+    left: 1702px;
+    top: 336px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-185 {
+  background-position: -320px -480px;
+  -webkit-animation: "superstage-185-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-186-anime" {
+  from {
+    left: -577px;
+    top: 728px;
+    opacity: 0;
+  }
+  to {
+    left: 320px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-186 {
+  background-position: -320px -512px;
+  -webkit-animation: "superstage-186-anime" 6s ease 2s 1;
+  left: 320px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-187-anime" {
+  from {
+    left: 493px;
+    top: 892px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 0px;
+    opacity: 1;
+  }
+}
+.superstage-187 {
+  background-position: -352px 0px;
+  -webkit-animation: "superstage-187-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 0px;
+}
+@-webkit-keyframes "superstage-188-anime" {
+  from {
+    left: 885px;
+    top: -183px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 32px;
+    opacity: 1;
+  }
+}
+.superstage-188 {
+  background-position: -352px -32px;
+  -webkit-animation: "superstage-188-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 32px;
+}
+@-webkit-keyframes "superstage-189-anime" {
+  from {
+    left: -76px;
+    top: -467px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 64px;
+    opacity: 1;
+  }
+}
+.superstage-189 {
+  background-position: -352px -64px;
+  -webkit-animation: "superstage-189-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 64px;
+}
+@-webkit-keyframes "superstage-190-anime" {
+  from {
+    left: 263px;
+    top: 795px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-190 {
+  background-position: -352px -96px;
+  -webkit-animation: "superstage-190-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-191-anime" {
+  from {
+    left: 1326px;
+    top: 639px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-191 {
+  background-position: -352px -128px;
+  -webkit-animation: "superstage-191-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-192-anime" {
+  from {
+    left: -760px;
+    top: 1043px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-192 {
+  background-position: -352px -160px;
+  -webkit-animation: "superstage-192-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-193-anime" {
+  from {
+    left: 1471px;
+    top: 453px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-193 {
+  background-position: -352px -192px;
+  -webkit-animation: "superstage-193-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-194-anime" {
+  from {
+    left: 665px;
+    top: 1069px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-194 {
+  background-position: -352px -224px;
+  -webkit-animation: "superstage-194-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-195-anime" {
+  from {
+    left: 733px;
+    top: -169px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-195 {
+  background-position: -352px -256px;
+  -webkit-animation: "superstage-195-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-196-anime" {
+  from {
+    left: 1809px;
+    top: -165px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-196 {
+  background-position: -352px -288px;
+  -webkit-animation: "superstage-196-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-197-anime" {
+  from {
+    left: -944px;
+    top: 721px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-197 {
+  background-position: -352px -320px;
+  -webkit-animation: "superstage-197-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-198-anime" {
+  from {
+    left: -326px;
+    top: 268px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-198 {
+  background-position: -352px -352px;
+  -webkit-animation: "superstage-198-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-199-anime" {
+  from {
+    left: -440px;
+    top: 647px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-199 {
+  background-position: -352px -384px;
+  -webkit-animation: "superstage-199-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-200-anime" {
+  from {
+    left: -960px;
+    top: -244px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-200 {
+  background-position: -352px -416px;
+  -webkit-animation: "superstage-200-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-201-anime" {
+  from {
+    left: -798px;
+    top: 938px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-201 {
+  background-position: -352px -448px;
+  -webkit-animation: "superstage-201-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-202-anime" {
+  from {
+    left: 1967px;
+    top: 788px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-202 {
+  background-position: -352px -480px;
+  -webkit-animation: "superstage-202-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-203-anime" {
+  from {
+    left: -657px;
+    top: 456px;
+    opacity: 0;
+  }
+  to {
+    left: 352px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-203 {
+  background-position: -352px -512px;
+  -webkit-animation: "superstage-203-anime" 6s ease 2s 1;
+  left: 352px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-204-anime" {
+  from {
+    left: 1237px;
+    top: 295px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 0px;
+    opacity: 1;
+  }
+}
+.superstage-204 {
+  background-position: -384px 0px;
+  -webkit-animation: "superstage-204-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 0px;
+}
+@-webkit-keyframes "superstage-205-anime" {
+  from {
+    left: 871px;
+    top: -74px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 32px;
+    opacity: 1;
+  }
+}
+.superstage-205 {
+  background-position: -384px -32px;
+  -webkit-animation: "superstage-205-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 32px;
+}
+@-webkit-keyframes "superstage-206-anime" {
+  from {
+    left: 131px;
+    top: 828px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 64px;
+    opacity: 1;
+  }
+}
+.superstage-206 {
+  background-position: -384px -64px;
+  -webkit-animation: "superstage-206-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 64px;
+}
+@-webkit-keyframes "superstage-207-anime" {
+  from {
+    left: 688px;
+    top: 1008px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-207 {
+  background-position: -384px -96px;
+  -webkit-animation: "superstage-207-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-208-anime" {
+  from {
+    left: 1039px;
+    top: 731px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-208 {
+  background-position: -384px -128px;
+  -webkit-animation: "superstage-208-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-209-anime" {
+  from {
+    left: -159px;
+    top: 211px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-209 {
+  background-position: -384px -160px;
+  -webkit-animation: "superstage-209-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-210-anime" {
+  from {
+    left: 136px;
+    top: -440px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-210 {
+  background-position: -384px -192px;
+  -webkit-animation: "superstage-210-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-211-anime" {
+  from {
+    left: -966px;
+    top: -162px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-211 {
+  background-position: -384px -224px;
+  -webkit-animation: "superstage-211-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-212-anime" {
+  from {
+    left: -652px;
+    top: 1070px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-212 {
+  background-position: -384px -256px;
+  -webkit-animation: "superstage-212-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-213-anime" {
+  from {
+    left: 1306px;
+    top: 762px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-213 {
+  background-position: -384px -288px;
+  -webkit-animation: "superstage-213-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-214-anime" {
+  from {
+    left: -485px;
+    top: 1079px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-214 {
+  background-position: -384px -320px;
+  -webkit-animation: "superstage-214-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-215-anime" {
+  from {
+    left: 1586px;
+    top: -229px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-215 {
+  background-position: -384px -352px;
+  -webkit-animation: "superstage-215-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-216-anime" {
+  from {
+    left: -392px;
+    top: -219px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-216 {
+  background-position: -384px -384px;
+  -webkit-animation: "superstage-216-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-217-anime" {
+  from {
+    left: 1802px;
+    top: 1024px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-217 {
+  background-position: -384px -416px;
+  -webkit-animation: "superstage-217-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-218-anime" {
+  from {
+    left: -167px;
+    top: 1023px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-218 {
+  background-position: -384px -448px;
+  -webkit-animation: "superstage-218-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-219-anime" {
+  from {
+    left: -596px;
+    top: -349px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-219 {
+  background-position: -384px -480px;
+  -webkit-animation: "superstage-219-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-220-anime" {
+  from {
+    left: 752px;
+    top: -421px;
+    opacity: 0;
+  }
+  to {
+    left: 384px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-220 {
+  background-position: -384px -512px;
+  -webkit-animation: "superstage-220-anime" 6s ease 2s 1;
+  left: 384px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-222-anime" {
+  from {
+    left: -707px;
+    top: 134px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 32px;
+    opacity: 1;
+  }
+}
+.superstage-222 {
+  background-position: -416px -32px;
+  -webkit-animation: "superstage-222-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 32px;
+}
+@-webkit-keyframes "superstage-223-anime" {
+  from {
+    left: -247px;
+    top: 244px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 64px;
+    opacity: 1;
+  }
+}
+.superstage-223 {
+  background-position: -416px -64px;
+  -webkit-animation: "superstage-223-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 64px;
+}
+@-webkit-keyframes "superstage-224-anime" {
+  from {
+    left: -451px;
+    top: -386px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-224 {
+  background-position: -416px -96px;
+  -webkit-animation: "superstage-224-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-225-anime" {
+  from {
+    left: 1812px;
+    top: 924px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-225 {
+  background-position: -416px -128px;
+  -webkit-animation: "superstage-225-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-226-anime" {
+  from {
+    left: -104px;
+    top: -59px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-226 {
+  background-position: -416px -160px;
+  -webkit-animation: "superstage-226-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-227-anime" {
+  from {
+    left: 1194px;
+    top: 32px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-227 {
+  background-position: -416px -192px;
+  -webkit-animation: "superstage-227-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-228-anime" {
+  from {
+    left: -358px;
+    top: -334px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-228 {
+  background-position: -416px -224px;
+  -webkit-animation: "superstage-228-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-229-anime" {
+  from {
+    left: 1303px;
+    top: -139px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-229 {
+  background-position: -416px -256px;
+  -webkit-animation: "superstage-229-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-230-anime" {
+  from {
+    left: 1544px;
+    top: -290px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-230 {
+  background-position: -416px -288px;
+  -webkit-animation: "superstage-230-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-231-anime" {
+  from {
+    left: 1337px;
+    top: 703px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-231 {
+  background-position: -416px -320px;
+  -webkit-animation: "superstage-231-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-232-anime" {
+  from {
+    left: 653px;
+    top: -175px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-232 {
+  background-position: -416px -352px;
+  -webkit-animation: "superstage-232-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-233-anime" {
+  from {
+    left: -399px;
+    top: -50px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-233 {
+  background-position: -416px -384px;
+  -webkit-animation: "superstage-233-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-234-anime" {
+  from {
+    left: 1858px;
+    top: 320px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-234 {
+  background-position: -416px -416px;
+  -webkit-animation: "superstage-234-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-235-anime" {
+  from {
+    left: -126px;
+    top: -94px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-235 {
+  background-position: -416px -448px;
+  -webkit-animation: "superstage-235-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-236-anime" {
+  from {
+    left: 1011px;
+    top: 657px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-236 {
+  background-position: -416px -480px;
+  -webkit-animation: "superstage-236-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-237-anime" {
+  from {
+    left: -750px;
+    top: 143px;
+    opacity: 0;
+  }
+  to {
+    left: 416px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-237 {
+  background-position: -416px -512px;
+  -webkit-animation: "superstage-237-anime" 6s ease 2s 1;
+  left: 416px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-241-anime" {
+  from {
+    left: -788px;
+    top: 1046px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-241 {
+  background-position: -448px -96px;
+  -webkit-animation: "superstage-241-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-242-anime" {
+  from {
+    left: -314px;
+    top: -376px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-242 {
+  background-position: -448px -128px;
+  -webkit-animation: "superstage-242-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-243-anime" {
+  from {
+    left: 1849px;
+    top: -5px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-243 {
+  background-position: -448px -160px;
+  -webkit-animation: "superstage-243-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-244-anime" {
+  from {
+    left: 1716px;
+    top: 185px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-244 {
+  background-position: -448px -192px;
+  -webkit-animation: "superstage-244-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-245-anime" {
+  from {
+    left: -484px;
+    top: -416px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-245 {
+  background-position: -448px -224px;
+  -webkit-animation: "superstage-245-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-246-anime" {
+  from {
+    left: 267px;
+    top: 947px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-246 {
+  background-position: -448px -256px;
+  -webkit-animation: "superstage-246-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-248-anime" {
+  from {
+    left: 1961px;
+    top: 889px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-248 {
+  background-position: -448px -320px;
+  -webkit-animation: "superstage-248-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-249-anime" {
+  from {
+    left: 587px;
+    top: -127px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-249 {
+  background-position: -448px -352px;
+  -webkit-animation: "superstage-249-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-250-anime" {
+  from {
+    left: 1832px;
+    top: 599px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-250 {
+  background-position: -448px -384px;
+  -webkit-animation: "superstage-250-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-251-anime" {
+  from {
+    left: 1574px;
+    top: -50px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-251 {
+  background-position: -448px -416px;
+  -webkit-animation: "superstage-251-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-252-anime" {
+  from {
+    left: 1672px;
+    top: -331px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-252 {
+  background-position: -448px -448px;
+  -webkit-animation: "superstage-252-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-253-anime" {
+  from {
+    left: 1318px;
+    top: 846px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-253 {
+  background-position: -448px -480px;
+  -webkit-animation: "superstage-253-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-254-anime" {
+  from {
+    left: -878px;
+    top: 591px;
+    opacity: 0;
+  }
+  to {
+    left: 448px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-254 {
+  background-position: -448px -512px;
+  -webkit-animation: "superstage-254-anime" 6s ease 2s 1;
+  left: 448px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-259-anime" {
+  from {
+    left: -724px;
+    top: 362px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-259 {
+  background-position: -480px -128px;
+  -webkit-animation: "superstage-259-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-260-anime" {
+  from {
+    left: 1712px;
+    top: 326px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-260 {
+  background-position: -480px -160px;
+  -webkit-animation: "superstage-260-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-261-anime" {
+  from {
+    left: -940px;
+    top: 782px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-261 {
+  background-position: -480px -192px;
+  -webkit-animation: "superstage-261-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-262-anime" {
+  from {
+    left: 896px;
+    top: 545px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-262 {
+  background-position: -480px -224px;
+  -webkit-animation: "superstage-262-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-263-anime" {
+  from {
+    left: 1182px;
+    top: 860px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-263 {
+  background-position: -480px -256px;
+  -webkit-animation: "superstage-263-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-264-anime" {
+  from {
+    left: -382px;
+    top: -370px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-264 {
+  background-position: -480px -288px;
+  -webkit-animation: "superstage-264-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-265-anime" {
+  from {
+    left: -930px;
+    top: 596px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-265 {
+  background-position: -480px -320px;
+  -webkit-animation: "superstage-265-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-266-anime" {
+  from {
+    left: 673px;
+    top: 980px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-266 {
+  background-position: -480px -352px;
+  -webkit-animation: "superstage-266-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-267-anime" {
+  from {
+    left: 1554px;
+    top: 74px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-267 {
+  background-position: -480px -384px;
+  -webkit-animation: "superstage-267-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-268-anime" {
+  from {
+    left: 2020px;
+    top: 274px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-268 {
+  background-position: -480px -416px;
+  -webkit-animation: "superstage-268-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-269-anime" {
+  from {
+    left: -699px;
+    top: 1044px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-269 {
+  background-position: -480px -448px;
+  -webkit-animation: "superstage-269-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-270-anime" {
+  from {
+    left: 53px;
+    top: 765px;
+    opacity: 0;
+  }
+  to {
+    left: 480px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-270 {
+  background-position: -480px -480px;
+  -webkit-animation: "superstage-270-anime" 6s ease 2s 1;
+  left: 480px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-275-anime" {
+  from {
+    left: -714px;
+    top: -139px;
+    opacity: 0;
+  }
+  to {
+    left: 512px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-275 {
+  background-position: -512px -96px;
+  -webkit-animation: "superstage-275-anime" 6s ease 2s 1;
+  left: 512px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-276-anime" {
+  from {
+    left: 1116px;
+    top: -257px;
+    opacity: 0;
+  }
+  to {
+    left: 512px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-276 {
+  background-position: -512px -128px;
+  -webkit-animation: "superstage-276-anime" 6s ease 2s 1;
+  left: 512px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-277-anime" {
+  from {
+    left: -690px;
+    top: -83px;
+    opacity: 0;
+  }
+  to {
+    left: 512px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-277 {
+  background-position: -512px -160px;
+  -webkit-animation: "superstage-277-anime" 6s ease 2s 1;
+  left: 512px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-278-anime" {
+  from {
+    left: 1265px;
+    top: -441px;
+    opacity: 0;
+  }
+  to {
+    left: 512px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-278 {
+  background-position: -512px -192px;
+  -webkit-animation: "superstage-278-anime" 6s ease 2s 1;
+  left: 512px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-279-anime" {
+  from {
+    left: 1365px;
+    top: -289px;
+    opacity: 0;
+  }
+  to {
+    left: 512px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-279 {
+  background-position: -512px -224px;
+  -webkit-animation: "superstage-279-anime" 6s ease 2s 1;
+  left: 512px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-280-anime" {
+  from {
+    left: 1482px;
+    top: 39px;
+    opacity: 0;
+  }
+  to {
+    left: 512px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-280 {
+  background-position: -512px -256px;
+  -webkit-animation: "superstage-280-anime" 6s ease 2s 1;
+  left: 512px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-281-anime" {
+  from {
+    left: -248px;
+    top: -415px;
+    opacity: 0;
+  }
+  to {
+    left: 512px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-281 {
+  background-position: -512px -288px;
+  -webkit-animation: "superstage-281-anime" 6s ease 2s 1;
+  left: 512px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-282-anime" {
+  from {
+    left: 16px;
+    top: 683px;
+    opacity: 0;
+  }
+  to {
+    left: 512px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-282 {
+  background-position: -512px -320px;
+  -webkit-animation: "superstage-282-anime" 6s ease 2s 1;
+  left: 512px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-283-anime" {
+  from {
+    left: -122px;
+    top: 248px;
+    opacity: 0;
+  }
+  to {
+    left: 512px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-283 {
+  background-position: -512px -352px;
+  -webkit-animation: "superstage-283-anime" 6s ease 2s 1;
+  left: 512px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-284-anime" {
+  from {
+    left: -130px;
+    top: -75px;
+    opacity: 0;
+  }
+  to {
+    left: 512px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-284 {
+  background-position: -512px -384px;
+  -webkit-animation: "superstage-284-anime" 6s ease 2s 1;
+  left: 512px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-292-anime" {
+  from {
+    left: 487px;
+    top: -310px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-292 {
+  background-position: -544px -96px;
+  -webkit-animation: "superstage-292-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-293-anime" {
+  from {
+    left: -162px;
+    top: 442px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-293 {
+  background-position: -544px -128px;
+  -webkit-animation: "superstage-293-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-294-anime" {
+  from {
+    left: 862px;
+    top: -208px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-294 {
+  background-position: -544px -160px;
+  -webkit-animation: "superstage-294-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-295-anime" {
+  from {
+    left: 1859px;
+    top: 389px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-295 {
+  background-position: -544px -192px;
+  -webkit-animation: "superstage-295-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-296-anime" {
+  from {
+    left: 1961px;
+    top: 928px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-296 {
+  background-position: -544px -224px;
+  -webkit-animation: "superstage-296-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-297-anime" {
+  from {
+    left: -57px;
+    top: -94px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-297 {
+  background-position: -544px -256px;
+  -webkit-animation: "superstage-297-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-298-anime" {
+  from {
+    left: 555px;
+    top: 1061px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-298 {
+  background-position: -544px -288px;
+  -webkit-animation: "superstage-298-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-299-anime" {
+  from {
+    left: -726px;
+    top: 752px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-299 {
+  background-position: -544px -320px;
+  -webkit-animation: "superstage-299-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-300-anime" {
+  from {
+    left: 1107px;
+    top: -9px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-300 {
+  background-position: -544px -352px;
+  -webkit-animation: "superstage-300-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-301-anime" {
+  from {
+    left: 140px;
+    top: -79px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-301 {
+  background-position: -544px -384px;
+  -webkit-animation: "superstage-301-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-302-anime" {
+  from {
+    left: -686px;
+    top: 488px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-302 {
+  background-position: -544px -416px;
+  -webkit-animation: "superstage-302-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-304-anime" {
+  from {
+    left: 2043px;
+    top: 578px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-304 {
+  background-position: -544px -480px;
+  -webkit-animation: "superstage-304-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-305-anime" {
+  from {
+    left: -203px;
+    top: 540px;
+    opacity: 0;
+  }
+  to {
+    left: 544px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-305 {
+  background-position: -544px -512px;
+  -webkit-animation: "superstage-305-anime" 6s ease 2s 1;
+  left: 544px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-309-anime" {
+  from {
+    left: -982px;
+    top: -127px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-309 {
+  background-position: -576px -96px;
+  -webkit-animation: "superstage-309-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-310-anime" {
+  from {
+    left: 390px;
+    top: -542px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-310 {
+  background-position: -576px -128px;
+  -webkit-animation: "superstage-310-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-311-anime" {
+  from {
+    left: 1199px;
+    top: 492px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-311 {
+  background-position: -576px -160px;
+  -webkit-animation: "superstage-311-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-312-anime" {
+  from {
+    left: -998px;
+    top: 327px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-312 {
+  background-position: -576px -192px;
+  -webkit-animation: "superstage-312-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-313-anime" {
+  from {
+    left: 1067px;
+    top: 895px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-313 {
+  background-position: -576px -224px;
+  -webkit-animation: "superstage-313-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-314-anime" {
+  from {
+    left: 1742px;
+    top: -16px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-314 {
+  background-position: -576px -256px;
+  -webkit-animation: "superstage-314-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-315-anime" {
+  from {
+    left: -610px;
+    top: 518px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-315 {
+  background-position: -576px -288px;
+  -webkit-animation: "superstage-315-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-316-anime" {
+  from {
+    left: 1141px;
+    top: 220px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-316 {
+  background-position: -576px -320px;
+  -webkit-animation: "superstage-316-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-317-anime" {
+  from {
+    left: 1241px;
+    top: -530px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-317 {
+  background-position: -576px -352px;
+  -webkit-animation: "superstage-317-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-318-anime" {
+  from {
+    left: 1870px;
+    top: 823px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-318 {
+  background-position: -576px -384px;
+  -webkit-animation: "superstage-318-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-319-anime" {
+  from {
+    left: 90px;
+    top: 940px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-319 {
+  background-position: -576px -416px;
+  -webkit-animation: "superstage-319-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-320-anime" {
+  from {
+    left: -1003px;
+    top: 219px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-320 {
+  background-position: -576px -448px;
+  -webkit-animation: "superstage-320-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-321-anime" {
+  from {
+    left: -995px;
+    top: 204px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-321 {
+  background-position: -576px -480px;
+  -webkit-animation: "superstage-321-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-322-anime" {
+  from {
+    left: -991px;
+    top: -232px;
+    opacity: 0;
+  }
+  to {
+    left: 576px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-322 {
+  background-position: -576px -512px;
+  -webkit-animation: "superstage-322-anime" 6s ease 2s 1;
+  left: 576px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-323-anime" {
+  from {
+    left: -205px;
+    top: 271px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 0px;
+    opacity: 1;
+  }
+}
+.superstage-323 {
+  background-position: -608px 0px;
+  -webkit-animation: "superstage-323-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 0px;
+}
+@-webkit-keyframes "superstage-324-anime" {
+  from {
+    left: -9px;
+    top: 681px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 32px;
+    opacity: 1;
+  }
+}
+.superstage-324 {
+  background-position: -608px -32px;
+  -webkit-animation: "superstage-324-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 32px;
+}
+@-webkit-keyframes "superstage-325-anime" {
+  from {
+    left: 1301px;
+    top: 383px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 64px;
+    opacity: 1;
+  }
+}
+.superstage-325 {
+  background-position: -608px -64px;
+  -webkit-animation: "superstage-325-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 64px;
+}
+@-webkit-keyframes "superstage-326-anime" {
+  from {
+    left: -654px;
+    top: 951px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-326 {
+  background-position: -608px -96px;
+  -webkit-animation: "superstage-326-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-327-anime" {
+  from {
+    left: -659px;
+    top: 717px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-327 {
+  background-position: -608px -128px;
+  -webkit-animation: "superstage-327-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-328-anime" {
+  from {
+    left: 1185px;
+    top: 61px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-328 {
+  background-position: -608px -160px;
+  -webkit-animation: "superstage-328-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-329-anime" {
+  from {
+    left: 15px;
+    top: -412px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-329 {
+  background-position: -608px -192px;
+  -webkit-animation: "superstage-329-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-330-anime" {
+  from {
+    left: 1569px;
+    top: 617px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-330 {
+  background-position: -608px -224px;
+  -webkit-animation: "superstage-330-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-331-anime" {
+  from {
+    left: 387px;
+    top: 904px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-331 {
+  background-position: -608px -256px;
+  -webkit-animation: "superstage-331-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-332-anime" {
+  from {
+    left: -275px;
+    top: -329px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-332 {
+  background-position: -608px -288px;
+  -webkit-animation: "superstage-332-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-333-anime" {
+  from {
+    left: 1670px;
+    top: 112px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-333 {
+  background-position: -608px -320px;
+  -webkit-animation: "superstage-333-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-334-anime" {
+  from {
+    left: 1205px;
+    top: 315px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-334 {
+  background-position: -608px -352px;
+  -webkit-animation: "superstage-334-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-335-anime" {
+  from {
+    left: -662px;
+    top: 664px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-335 {
+  background-position: -608px -384px;
+  -webkit-animation: "superstage-335-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-336-anime" {
+  from {
+    left: -372px;
+    top: 891px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-336 {
+  background-position: -608px -416px;
+  -webkit-animation: "superstage-336-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-337-anime" {
+  from {
+    left: -494px;
+    top: 220px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-337 {
+  background-position: -608px -448px;
+  -webkit-animation: "superstage-337-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-338-anime" {
+  from {
+    left: -179px;
+    top: 60px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-338 {
+  background-position: -608px -480px;
+  -webkit-animation: "superstage-338-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-339-anime" {
+  from {
+    left: -108px;
+    top: -33px;
+    opacity: 0;
+  }
+  to {
+    left: 608px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-339 {
+  background-position: -608px -512px;
+  -webkit-animation: "superstage-339-anime" 6s ease 2s 1;
+  left: 608px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-343-anime" {
+  from {
+    left: -10px;
+    top: 1056px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-343 {
+  background-position: -640px -96px;
+  -webkit-animation: "superstage-343-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-344-anime" {
+  from {
+    left: 1950px;
+    top: 751px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-344 {
+  background-position: -640px -128px;
+  -webkit-animation: "superstage-344-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-345-anime" {
+  from {
+    left: 250px;
+    top: 867px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-345 {
+  background-position: -640px -160px;
+  -webkit-animation: "superstage-345-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-346-anime" {
+  from {
+    left: -317px;
+    top: -115px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-346 {
+  background-position: -640px -192px;
+  -webkit-animation: "superstage-346-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-347-anime" {
+  from {
+    left: 1398px;
+    top: 162px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-347 {
+  background-position: -640px -224px;
+  -webkit-animation: "superstage-347-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-348-anime" {
+  from {
+    left: 201px;
+    top: -109px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-348 {
+  background-position: -640px -256px;
+  -webkit-animation: "superstage-348-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-349-anime" {
+  from {
+    left: 1708px;
+    top: 778px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-349 {
+  background-position: -640px -288px;
+  -webkit-animation: "superstage-349-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-350-anime" {
+  from {
+    left: -307px;
+    top: 955px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-350 {
+  background-position: -640px -320px;
+  -webkit-animation: "superstage-350-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-351-anime" {
+  from {
+    left: -633px;
+    top: 71px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-351 {
+  background-position: -640px -352px;
+  -webkit-animation: "superstage-351-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-352-anime" {
+  from {
+    left: -52px;
+    top: -74px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-352 {
+  background-position: -640px -384px;
+  -webkit-animation: "superstage-352-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-353-anime" {
+  from {
+    left: 218px;
+    top: -415px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-353 {
+  background-position: -640px -416px;
+  -webkit-animation: "superstage-353-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-354-anime" {
+  from {
+    left: -81px;
+    top: 690px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-354 {
+  background-position: -640px -448px;
+  -webkit-animation: "superstage-354-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-355-anime" {
+  from {
+    left: 676px;
+    top: 623px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-355 {
+  background-position: -640px -480px;
+  -webkit-animation: "superstage-355-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-356-anime" {
+  from {
+    left: 135px;
+    top: -299px;
+    opacity: 0;
+  }
+  to {
+    left: 640px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-356 {
+  background-position: -640px -512px;
+  -webkit-animation: "superstage-356-anime" 6s ease 2s 1;
+  left: 640px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-360-anime" {
+  from {
+    left: 302px;
+    top: 822px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-360 {
+  background-position: -672px -96px;
+  -webkit-animation: "superstage-360-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-361-anime" {
+  from {
+    left: 492px;
+    top: -421px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-361 {
+  background-position: -672px -128px;
+  -webkit-animation: "superstage-361-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-362-anime" {
+  from {
+    left: 1026px;
+    top: 169px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-362 {
+  background-position: -672px -160px;
+  -webkit-animation: "superstage-362-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-363-anime" {
+  from {
+    left: 552px;
+    top: 658px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-363 {
+  background-position: -672px -192px;
+  -webkit-animation: "superstage-363-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-364-anime" {
+  from {
+    left: -194px;
+    top: 919px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-364 {
+  background-position: -672px -224px;
+  -webkit-animation: "superstage-364-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-365-anime" {
+  from {
+    left: -746px;
+    top: -306px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-365 {
+  background-position: -672px -256px;
+  -webkit-animation: "superstage-365-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-366-anime" {
+  from {
+    left: -277px;
+    top: -218px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-366 {
+  background-position: -672px -288px;
+  -webkit-animation: "superstage-366-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-367-anime" {
+  from {
+    left: 1955px;
+    top: -321px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-367 {
+  background-position: -672px -320px;
+  -webkit-animation: "superstage-367-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-368-anime" {
+  from {
+    left: 576px;
+    top: 705px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-368 {
+  background-position: -672px -352px;
+  -webkit-animation: "superstage-368-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-369-anime" {
+  from {
+    left: 1921px;
+    top: 861px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-369 {
+  background-position: -672px -384px;
+  -webkit-animation: "superstage-369-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-370-anime" {
+  from {
+    left: 551px;
+    top: -350px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-370 {
+  background-position: -672px -416px;
+  -webkit-animation: "superstage-370-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-371-anime" {
+  from {
+    left: 1731px;
+    top: 525px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-371 {
+  background-position: -672px -448px;
+  -webkit-animation: "superstage-371-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-372-anime" {
+  from {
+    left: 473px;
+    top: 646px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-372 {
+  background-position: -672px -480px;
+  -webkit-animation: "superstage-372-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-373-anime" {
+  from {
+    left: 1821px;
+    top: 9px;
+    opacity: 0;
+  }
+  to {
+    left: 672px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-373 {
+  background-position: -672px -512px;
+  -webkit-animation: "superstage-373-anime" 6s ease 2s 1;
+  left: 672px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-377-anime" {
+  from {
+    left: -160px;
+    top: 34px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-377 {
+  background-position: -704px -96px;
+  -webkit-animation: "superstage-377-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-378-anime" {
+  from {
+    left: 1102px;
+    top: 449px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-378 {
+  background-position: -704px -128px;
+  -webkit-animation: "superstage-378-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-379-anime" {
+  from {
+    left: 344px;
+    top: 688px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-379 {
+  background-position: -704px -160px;
+  -webkit-animation: "superstage-379-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-380-anime" {
+  from {
+    left: 1107px;
+    top: 888px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-380 {
+  background-position: -704px -192px;
+  -webkit-animation: "superstage-380-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-381-anime" {
+  from {
+    left: 1128px;
+    top: 547px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-381 {
+  background-position: -704px -224px;
+  -webkit-animation: "superstage-381-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-382-anime" {
+  from {
+    left: 1449px;
+    top: -448px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-382 {
+  background-position: -704px -256px;
+  -webkit-animation: "superstage-382-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-383-anime" {
+  from {
+    left: -697px;
+    top: -284px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-383 {
+  background-position: -704px -288px;
+  -webkit-animation: "superstage-383-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-384-anime" {
+  from {
+    left: 1738px;
+    top: 1015px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-384 {
+  background-position: -704px -320px;
+  -webkit-animation: "superstage-384-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-385-anime" {
+  from {
+    left: -1012px;
+    top: 933px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-385 {
+  background-position: -704px -352px;
+  -webkit-animation: "superstage-385-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-386-anime" {
+  from {
+    left: 373px;
+    top: -425px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-386 {
+  background-position: -704px -384px;
+  -webkit-animation: "superstage-386-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-387-anime" {
+  from {
+    left: -192px;
+    top: -222px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-387 {
+  background-position: -704px -416px;
+  -webkit-animation: "superstage-387-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-388-anime" {
+  from {
+    left: 1467px;
+    top: 783px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-388 {
+  background-position: -704px -448px;
+  -webkit-animation: "superstage-388-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-389-anime" {
+  from {
+    left: -697px;
+    top: 1069px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-389 {
+  background-position: -704px -480px;
+  -webkit-animation: "superstage-389-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-390-anime" {
+  from {
+    left: 1689px;
+    top: 727px;
+    opacity: 0;
+  }
+  to {
+    left: 704px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-390 {
+  background-position: -704px -512px;
+  -webkit-animation: "superstage-390-anime" 6s ease 2s 1;
+  left: 704px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-394-anime" {
+  from {
+    left: 1648px;
+    top: 451px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-394 {
+  background-position: -736px -96px;
+  -webkit-animation: "superstage-394-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-395-anime" {
+  from {
+    left: -957px;
+    top: -347px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-395 {
+  background-position: -736px -128px;
+  -webkit-animation: "superstage-395-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-396-anime" {
+  from {
+    left: 705px;
+    top: -446px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-396 {
+  background-position: -736px -160px;
+  -webkit-animation: "superstage-396-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-397-anime" {
+  from {
+    left: 1421px;
+    top: -27px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-397 {
+  background-position: -736px -192px;
+  -webkit-animation: "superstage-397-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-398-anime" {
+  from {
+    left: 413px;
+    top: 832px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-398 {
+  background-position: -736px -224px;
+  -webkit-animation: "superstage-398-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-399-anime" {
+  from {
+    left: 1266px;
+    top: -532px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-399 {
+  background-position: -736px -256px;
+  -webkit-animation: "superstage-399-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-400-anime" {
+  from {
+    left: 2004px;
+    top: -210px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-400 {
+  background-position: -736px -288px;
+  -webkit-animation: "superstage-400-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-401-anime" {
+  from {
+    left: -956px;
+    top: 776px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-401 {
+  background-position: -736px -320px;
+  -webkit-animation: "superstage-401-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-402-anime" {
+  from {
+    left: -567px;
+    top: 524px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-402 {
+  background-position: -736px -352px;
+  -webkit-animation: "superstage-402-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-403-anime" {
+  from {
+    left: 1846px;
+    top: 948px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-403 {
+  background-position: -736px -384px;
+  -webkit-animation: "superstage-403-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-404-anime" {
+  from {
+    left: 417px;
+    top: -355px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-404 {
+  background-position: -736px -416px;
+  -webkit-animation: "superstage-404-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-405-anime" {
+  from {
+    left: -617px;
+    top: -538px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-405 {
+  background-position: -736px -448px;
+  -webkit-animation: "superstage-405-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-406-anime" {
+  from {
+    left: 503px;
+    top: 617px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-406 {
+  background-position: -736px -480px;
+  -webkit-animation: "superstage-406-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-407-anime" {
+  from {
+    left: 1540px;
+    top: -121px;
+    opacity: 0;
+  }
+  to {
+    left: 736px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-407 {
+  background-position: -736px -512px;
+  -webkit-animation: "superstage-407-anime" 6s ease 2s 1;
+  left: 736px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-411-anime" {
+  from {
+    left: 1047px;
+    top: 483px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-411 {
+  background-position: -768px -96px;
+  -webkit-animation: "superstage-411-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-412-anime" {
+  from {
+    left: 140px;
+    top: 790px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-412 {
+  background-position: -768px -128px;
+  -webkit-animation: "superstage-412-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-413-anime" {
+  from {
+    left: 1366px;
+    top: 891px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-413 {
+  background-position: -768px -160px;
+  -webkit-animation: "superstage-413-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-414-anime" {
+  from {
+    left: 1209px;
+    top: 534px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-414 {
+  background-position: -768px -192px;
+  -webkit-animation: "superstage-414-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-415-anime" {
+  from {
+    left: 210px;
+    top: 642px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-415 {
+  background-position: -768px -224px;
+  -webkit-animation: "superstage-415-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-416-anime" {
+  from {
+    left: 1341px;
+    top: 424px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-416 {
+  background-position: -768px -256px;
+  -webkit-animation: "superstage-416-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-417-anime" {
+  from {
+    left: -589px;
+    top: 917px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-417 {
+  background-position: -768px -288px;
+  -webkit-animation: "superstage-417-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-418-anime" {
+  from {
+    left: 717px;
+    top: -500px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-418 {
+  background-position: -768px -320px;
+  -webkit-animation: "superstage-418-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-419-anime" {
+  from {
+    left: 887px;
+    top: 928px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-419 {
+  background-position: -768px -352px;
+  -webkit-animation: "superstage-419-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-420-anime" {
+  from {
+    left: 631px;
+    top: -468px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-420 {
+  background-position: -768px -384px;
+  -webkit-animation: "superstage-420-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-421-anime" {
+  from {
+    left: -922px;
+    top: 1067px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-421 {
+  background-position: -768px -416px;
+  -webkit-animation: "superstage-421-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-422-anime" {
+  from {
+    left: -653px;
+    top: 727px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-422 {
+  background-position: -768px -448px;
+  -webkit-animation: "superstage-422-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-423-anime" {
+  from {
+    left: -194px;
+    top: -33px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-423 {
+  background-position: -768px -480px;
+  -webkit-animation: "superstage-423-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-424-anime" {
+  from {
+    left: 263px;
+    top: -507px;
+    opacity: 0;
+  }
+  to {
+    left: 768px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-424 {
+  background-position: -768px -512px;
+  -webkit-animation: "superstage-424-anime" 6s ease 2s 1;
+  left: 768px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-428-anime" {
+  from {
+    left: 381px;
+    top: 605px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-428 {
+  background-position: -800px -96px;
+  -webkit-animation: "superstage-428-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-429-anime" {
+  from {
+    left: -926px;
+    top: -440px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-429 {
+  background-position: -800px -128px;
+  -webkit-animation: "superstage-429-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-430-anime" {
+  from {
+    left: 843px;
+    top: 1008px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-430 {
+  background-position: -800px -160px;
+  -webkit-animation: "superstage-430-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-431-anime" {
+  from {
+    left: -179px;
+    top: 254px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-431 {
+  background-position: -800px -192px;
+  -webkit-animation: "superstage-431-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-432-anime" {
+  from {
+    left: 48px;
+    top: 1051px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-432 {
+  background-position: -800px -224px;
+  -webkit-animation: "superstage-432-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-433-anime" {
+  from {
+    left: -381px;
+    top: 1011px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-433 {
+  background-position: -800px -256px;
+  -webkit-animation: "superstage-433-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-434-anime" {
+  from {
+    left: 2020px;
+    top: 966px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-434 {
+  background-position: -800px -288px;
+  -webkit-animation: "superstage-434-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-435-anime" {
+  from {
+    left: 1219px;
+    top: 732px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-435 {
+  background-position: -800px -320px;
+  -webkit-animation: "superstage-435-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-436-anime" {
+  from {
+    left: 1453px;
+    top: -425px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-436 {
+  background-position: -800px -352px;
+  -webkit-animation: "superstage-436-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-437-anime" {
+  from {
+    left: 1075px;
+    top: 439px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-437 {
+  background-position: -800px -384px;
+  -webkit-animation: "superstage-437-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-438-anime" {
+  from {
+    left: 547px;
+    top: -402px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-438 {
+  background-position: -800px -416px;
+  -webkit-animation: "superstage-438-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-439-anime" {
+  from {
+    left: 226px;
+    top: 718px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-439 {
+  background-position: -800px -448px;
+  -webkit-animation: "superstage-439-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-440-anime" {
+  from {
+    left: -332px;
+    top: 848px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-440 {
+  background-position: -800px -480px;
+  -webkit-animation: "superstage-440-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-441-anime" {
+  from {
+    left: 1432px;
+    top: -72px;
+    opacity: 0;
+  }
+  to {
+    left: 800px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-441 {
+  background-position: -800px -512px;
+  -webkit-animation: "superstage-441-anime" 6s ease 2s 1;
+  left: 800px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-445-anime" {
+  from {
+    left: 1143px;
+    top: -521px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-445 {
+  background-position: -832px -96px;
+  -webkit-animation: "superstage-445-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-446-anime" {
+  from {
+    left: -1013px;
+    top: -229px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-446 {
+  background-position: -832px -128px;
+  -webkit-animation: "superstage-446-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-447-anime" {
+  from {
+    left: 439px;
+    top: 1000px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-447 {
+  background-position: -832px -160px;
+  -webkit-animation: "superstage-447-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-448-anime" {
+  from {
+    left: 1357px;
+    top: -356px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-448 {
+  background-position: -832px -192px;
+  -webkit-animation: "superstage-448-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-449-anime" {
+  from {
+    left: -608px;
+    top: 701px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-449 {
+  background-position: -832px -224px;
+  -webkit-animation: "superstage-449-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-450-anime" {
+  from {
+    left: 330px;
+    top: -410px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-450 {
+  background-position: -832px -256px;
+  -webkit-animation: "superstage-450-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-451-anime" {
+  from {
+    left: 2014px;
+    top: 560px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-451 {
+  background-position: -832px -288px;
+  -webkit-animation: "superstage-451-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-452-anime" {
+  from {
+    left: -976px;
+    top: 406px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-452 {
+  background-position: -832px -320px;
+  -webkit-animation: "superstage-452-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-453-anime" {
+  from {
+    left: 2043px;
+    top: -309px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-453 {
+  background-position: -832px -352px;
+  -webkit-animation: "superstage-453-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-454-anime" {
+  from {
+    left: -634px;
+    top: -139px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-454 {
+  background-position: -832px -384px;
+  -webkit-animation: "superstage-454-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-455-anime" {
+  from {
+    left: 1595px;
+    top: -263px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-455 {
+  background-position: -832px -416px;
+  -webkit-animation: "superstage-455-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-457-anime" {
+  from {
+    left: -970px;
+    top: 149px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-457 {
+  background-position: -832px -480px;
+  -webkit-animation: "superstage-457-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-458-anime" {
+  from {
+    left: 1773px;
+    top: -92px;
+    opacity: 0;
+  }
+  to {
+    left: 832px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-458 {
+  background-position: -832px -512px;
+  -webkit-animation: "superstage-458-anime" 6s ease 2s 1;
+  left: 832px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-462-anime" {
+  from {
+    left: 1077px;
+    top: -513px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-462 {
+  background-position: -864px -96px;
+  -webkit-animation: "superstage-462-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-463-anime" {
+  from {
+    left: -866px;
+    top: 639px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-463 {
+  background-position: -864px -128px;
+  -webkit-animation: "superstage-463-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-464-anime" {
+  from {
+    left: 1793px;
+    top: -509px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-464 {
+  background-position: -864px -160px;
+  -webkit-animation: "superstage-464-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-465-anime" {
+  from {
+    left: 1075px;
+    top: 361px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-465 {
+  background-position: -864px -192px;
+  -webkit-animation: "superstage-465-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-466-anime" {
+  from {
+    left: -955px;
+    top: 601px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-466 {
+  background-position: -864px -224px;
+  -webkit-animation: "superstage-466-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-467-anime" {
+  from {
+    left: -707px;
+    top: -141px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-467 {
+  background-position: -864px -256px;
+  -webkit-animation: "superstage-467-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-468-anime" {
+  from {
+    left: 255px;
+    top: 919px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-468 {
+  background-position: -864px -288px;
+  -webkit-animation: "superstage-468-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-469-anime" {
+  from {
+    left: 1087px;
+    top: -248px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-469 {
+  background-position: -864px -320px;
+  -webkit-animation: "superstage-469-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-470-anime" {
+  from {
+    left: 25px;
+    top: -442px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-470 {
+  background-position: -864px -352px;
+  -webkit-animation: "superstage-470-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-471-anime" {
+  from {
+    left: -464px;
+    top: 581px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-471 {
+  background-position: -864px -384px;
+  -webkit-animation: "superstage-471-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-472-anime" {
+  from {
+    left: 148px;
+    top: 674px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-472 {
+  background-position: -864px -416px;
+  -webkit-animation: "superstage-472-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-474-anime" {
+  from {
+    left: 1117px;
+    top: 491px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-474 {
+  background-position: -864px -480px;
+  -webkit-animation: "superstage-474-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-475-anime" {
+  from {
+    left: 1225px;
+    top: -452px;
+    opacity: 0;
+  }
+  to {
+    left: 864px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-475 {
+  background-position: -864px -512px;
+  -webkit-animation: "superstage-475-anime" 6s ease 2s 1;
+  left: 864px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-479-anime" {
+  from {
+    left: -556px;
+    top: -299px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-479 {
+  background-position: -896px -96px;
+  -webkit-animation: "superstage-479-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-480-anime" {
+  from {
+    left: 1805px;
+    top: 486px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-480 {
+  background-position: -896px -128px;
+  -webkit-animation: "superstage-480-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-481-anime" {
+  from {
+    left: -318px;
+    top: 760px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-481 {
+  background-position: -896px -160px;
+  -webkit-animation: "superstage-481-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-482-anime" {
+  from {
+    left: 1851px;
+    top: 1019px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-482 {
+  background-position: -896px -192px;
+  -webkit-animation: "superstage-482-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-483-anime" {
+  from {
+    left: 1232px;
+    top: -512px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-483 {
+  background-position: -896px -224px;
+  -webkit-animation: "superstage-483-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-484-anime" {
+  from {
+    left: -572px;
+    top: 1038px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-484 {
+  background-position: -896px -256px;
+  -webkit-animation: "superstage-484-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-485-anime" {
+  from {
+    left: 803px;
+    top: 1057px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-485 {
+  background-position: -896px -288px;
+  -webkit-animation: "superstage-485-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-486-anime" {
+  from {
+    left: -898px;
+    top: -344px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-486 {
+  background-position: -896px -320px;
+  -webkit-animation: "superstage-486-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-487-anime" {
+  from {
+    left: -591px;
+    top: 663px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-487 {
+  background-position: -896px -352px;
+  -webkit-animation: "superstage-487-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-488-anime" {
+  from {
+    left: -644px;
+    top: -90px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-488 {
+  background-position: -896px -384px;
+  -webkit-animation: "superstage-488-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-489-anime" {
+  from {
+    left: -879px;
+    top: 489px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-489 {
+  background-position: -896px -416px;
+  -webkit-animation: "superstage-489-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-492-anime" {
+  from {
+    left: 931px;
+    top: -34px;
+    opacity: 0;
+  }
+  to {
+    left: 896px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-492 {
+  background-position: -896px -512px;
+  -webkit-animation: "superstage-492-anime" 6s ease 2s 1;
+  left: 896px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-496-anime" {
+  from {
+    left: 1658px;
+    top: 379px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-496 {
+  background-position: -928px -96px;
+  -webkit-animation: "superstage-496-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-497-anime" {
+  from {
+    left: 1653px;
+    top: 569px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-497 {
+  background-position: -928px -128px;
+  -webkit-animation: "superstage-497-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-498-anime" {
+  from {
+    left: -835px;
+    top: 572px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-498 {
+  background-position: -928px -160px;
+  -webkit-animation: "superstage-498-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-499-anime" {
+  from {
+    left: 406px;
+    top: 1054px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-499 {
+  background-position: -928px -192px;
+  -webkit-animation: "superstage-499-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-500-anime" {
+  from {
+    left: 1247px;
+    top: -240px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-500 {
+  background-position: -928px -224px;
+  -webkit-animation: "superstage-500-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-501-anime" {
+  from {
+    left: 1838px;
+    top: 42px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-501 {
+  background-position: -928px -256px;
+  -webkit-animation: "superstage-501-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-502-anime" {
+  from {
+    left: 631px;
+    top: 588px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-502 {
+  background-position: -928px -288px;
+  -webkit-animation: "superstage-502-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-503-anime" {
+  from {
+    left: 1810px;
+    top: 904px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-503 {
+  background-position: -928px -320px;
+  -webkit-animation: "superstage-503-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-504-anime" {
+  from {
+    left: -137px;
+    top: -173px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-504 {
+  background-position: -928px -352px;
+  -webkit-animation: "superstage-504-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-505-anime" {
+  from {
+    left: 1820px;
+    top: 865px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-505 {
+  background-position: -928px -384px;
+  -webkit-animation: "superstage-505-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-506-anime" {
+  from {
+    left: -575px;
+    top: 143px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-506 {
+  background-position: -928px -416px;
+  -webkit-animation: "superstage-506-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-508-anime" {
+  from {
+    left: 1117px;
+    top: 677px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-508 {
+  background-position: -928px -480px;
+  -webkit-animation: "superstage-508-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-509-anime" {
+  from {
+    left: 1879px;
+    top: 933px;
+    opacity: 0;
+  }
+  to {
+    left: 928px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-509 {
+  background-position: -928px -512px;
+  -webkit-animation: "superstage-509-anime" 6s ease 2s 1;
+  left: 928px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-513-anime" {
+  from {
+    left: -798px;
+    top: -73px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-513 {
+  background-position: -960px -96px;
+  -webkit-animation: "superstage-513-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-514-anime" {
+  from {
+    left: 1923px;
+    top: -292px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-514 {
+  background-position: -960px -128px;
+  -webkit-animation: "superstage-514-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-515-anime" {
+  from {
+    left: 1528px;
+    top: 853px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-515 {
+  background-position: -960px -160px;
+  -webkit-animation: "superstage-515-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-516-anime" {
+  from {
+    left: -628px;
+    top: 916px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-516 {
+  background-position: -960px -192px;
+  -webkit-animation: "superstage-516-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-517-anime" {
+  from {
+    left: 1961px;
+    top: 919px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-517 {
+  background-position: -960px -224px;
+  -webkit-animation: "superstage-517-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-518-anime" {
+  from {
+    left: 1192px;
+    top: 943px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-518 {
+  background-position: -960px -256px;
+  -webkit-animation: "superstage-518-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-519-anime" {
+  from {
+    left: -166px;
+    top: -13px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-519 {
+  background-position: -960px -288px;
+  -webkit-animation: "superstage-519-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-520-anime" {
+  from {
+    left: -960px;
+    top: 977px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-520 {
+  background-position: -960px -320px;
+  -webkit-animation: "superstage-520-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-521-anime" {
+  from {
+    left: -113px;
+    top: -178px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-521 {
+  background-position: -960px -352px;
+  -webkit-animation: "superstage-521-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-522-anime" {
+  from {
+    left: -962px;
+    top: 832px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-522 {
+  background-position: -960px -384px;
+  -webkit-animation: "superstage-522-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-523-anime" {
+  from {
+    left: 1980px;
+    top: 227px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-523 {
+  background-position: -960px -416px;
+  -webkit-animation: "superstage-523-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-525-anime" {
+  from {
+    left: -872px;
+    top: 519px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-525 {
+  background-position: -960px -480px;
+  -webkit-animation: "superstage-525-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-526-anime" {
+  from {
+    left: -315px;
+    top: -84px;
+    opacity: 0;
+  }
+  to {
+    left: 960px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-526 {
+  background-position: -960px -512px;
+  -webkit-animation: "superstage-526-anime" 6s ease 2s 1;
+  left: 960px;
+  top: 512px;
+}
+@-webkit-keyframes "superstage-530-anime" {
+  from {
+    left: 1129px;
+    top: 869px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 96px;
+    opacity: 1;
+  }
+}
+.superstage-530 {
+  background-position: -992px -96px;
+  -webkit-animation: "superstage-530-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 96px;
+}
+@-webkit-keyframes "superstage-531-anime" {
+  from {
+    left: -562px;
+    top: 537px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 128px;
+    opacity: 1;
+  }
+}
+.superstage-531 {
+  background-position: -992px -128px;
+  -webkit-animation: "superstage-531-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 128px;
+}
+@-webkit-keyframes "superstage-532-anime" {
+  from {
+    left: 1024px;
+    top: -238px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 160px;
+    opacity: 1;
+  }
+}
+.superstage-532 {
+  background-position: -992px -160px;
+  -webkit-animation: "superstage-532-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 160px;
+}
+@-webkit-keyframes "superstage-533-anime" {
+  from {
+    left: 1527px;
+    top: -393px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 192px;
+    opacity: 1;
+  }
+}
+.superstage-533 {
+  background-position: -992px -192px;
+  -webkit-animation: "superstage-533-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 192px;
+}
+@-webkit-keyframes "superstage-534-anime" {
+  from {
+    left: 599px;
+    top: -134px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 224px;
+    opacity: 1;
+  }
+}
+.superstage-534 {
+  background-position: -992px -224px;
+  -webkit-animation: "superstage-534-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 224px;
+}
+@-webkit-keyframes "superstage-535-anime" {
+  from {
+    left: -688px;
+    top: -208px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 256px;
+    opacity: 1;
+  }
+}
+.superstage-535 {
+  background-position: -992px -256px;
+  -webkit-animation: "superstage-535-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 256px;
+}
+@-webkit-keyframes "superstage-536-anime" {
+  from {
+    left: 755px;
+    top: 1025px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 288px;
+    opacity: 1;
+  }
+}
+.superstage-536 {
+  background-position: -992px -288px;
+  -webkit-animation: "superstage-536-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 288px;
+}
+@-webkit-keyframes "superstage-537-anime" {
+  from {
+    left: 97px;
+    top: -419px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 320px;
+    opacity: 1;
+  }
+}
+.superstage-537 {
+  background-position: -992px -320px;
+  -webkit-animation: "superstage-537-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 320px;
+}
+@-webkit-keyframes "superstage-538-anime" {
+  from {
+    left: 1633px;
+    top: -43px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 352px;
+    opacity: 1;
+  }
+}
+.superstage-538 {
+  background-position: -992px -352px;
+  -webkit-animation: "superstage-538-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 352px;
+}
+@-webkit-keyframes "superstage-539-anime" {
+  from {
+    left: 1224px;
+    top: 654px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 384px;
+    opacity: 1;
+  }
+}
+.superstage-539 {
+  background-position: -992px -384px;
+  -webkit-animation: "superstage-539-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 384px;
+}
+@-webkit-keyframes "superstage-540-anime" {
+  from {
+    left: 1464px;
+    top: -453px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 416px;
+    opacity: 1;
+  }
+}
+.superstage-540 {
+  background-position: -992px -416px;
+  -webkit-animation: "superstage-540-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 416px;
+}
+@-webkit-keyframes "superstage-541-anime" {
+  from {
+    left: -701px;
+    top: -205px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 448px;
+    opacity: 1;
+  }
+}
+.superstage-541 {
+  background-position: -992px -448px;
+  -webkit-animation: "superstage-541-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 448px;
+}
+@-webkit-keyframes "superstage-542-anime" {
+  from {
+    left: 1390px;
+    top: 26px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 480px;
+    opacity: 1;
+  }
+}
+.superstage-542 {
+  background-position: -992px -480px;
+  -webkit-animation: "superstage-542-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 480px;
+}
+@-webkit-keyframes "superstage-543-anime" {
+  from {
+    left: 621px;
+    top: 655px;
+    opacity: 0;
+  }
+  to {
+    left: 992px;
+    top: 512px;
+    opacity: 1;
+  }
+}
+.superstage-543 {
+  background-position: -992px -512px;
+  -webkit-animation: "superstage-543-anime" 6s ease 2s 1;
+  left: 992px;
+  top: 512px;
+}

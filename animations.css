@@ -1,0 +1,235 @@
+@-webkit-keyframes "moving-background" {
+	from {
+		background-position: 0px 0px;
+	}
+	to {
+		background-position: -512px -512px;
+	}
+}
+
+.stage {
+	-webkit-animation: "moving-background" 4s linear infinite;
+}
+
+@-webkit-keyframes "gear" {
+	from {
+		left: 512px;
+		top: 288px;
+		width: 0px;
+		height: 0px;
+		opacity: 0;
+	}
+	20% {
+		left: 496px;
+		top: 272px;
+		width: 32px;
+		height: 32px;
+		opacity: 1;
+	}
+	to {
+		left: -1536px;
+		top: -1760px;
+		width: 4096px;
+		height: 4096px;
+		opacity: 0;
+	}
+}
+
+.ani-gear {
+	-webkit-animation: "gear" 4s ease 1;
+}
+
+@-webkit-keyframes "superstage-final" {
+	from {
+		left: 0px;
+		top: 19px;
+		width: 1024px;
+		height: 538px;
+		opacity: 1;
+	}
+	86% {
+		left: -8608px;
+		top: -4032px;
+		width: 15360px;
+		height: 8064px;
+		opacity: 1;
+	}
+	to {
+		left: -8608px;
+		top: -4032px;
+		width: 15360px;
+		height: 8064px;
+		opacity: 0;
+	}
+}
+
+#superstage-final.ani {
+	-webkit-animation: "superstage-final" 3.5s ease-in-out 1;
+}
+
+@-webkit-keyframes "grassblock" {
+	from {
+		left: 416px;
+		top: 192px;
+		width: 192px;
+		height: 192px;
+		background-size: 192px 192px;
+	}
+	to {
+		left: 448px;
+		top: 224px;
+		width: 128px;
+		height: 128px;
+		background-size: 128px 128px;
+	}
+}
+
+#grassblock.ani {
+	-webkit-animation: "grassblock" .5s ease-in-out 1;
+}
+
+#grassblock.final {
+	left: 448px;
+	top: 224px;
+	width: 128px;
+	height: 128px;
+	background-size: 128px 128px;
+	-webkit-animation: "grassblock-finalmove" 2s ease 1;
+}
+
+@-webkit-keyframes "grassblock-finalmove" {
+	from, 25% {
+		left: 448px;
+		opacity: 1;
+	}
+	to {
+		left: 1024px;
+		opacity: .5;
+	}
+}
+
+@-webkit-keyframes "grassblock-growing" {
+	from {
+		left: -192px;
+		opacity: .5;
+	}
+	to {
+		left: 416px;
+		opacity: 1;
+	}
+}
+
+#grassblock-growing {
+	-webkit-animation: "grassblock-growing" 2s ease 14s 1;
+	top: 192px;
+	left: -192px;
+}
+
+#grassblock-growing.final {
+	left: 416px;
+}
+
+.dirt-only {
+	clip: rect(84px 192px 192px 0px);
+}
+
+.grass-only {
+	clip: rect(0px 192px 84px 0px);
+}
+
+#grassblock-growing-stage2 {
+	transition: opacity .5s ease-in-out;
+	opacity: 0;
+}
+
+#grassblock-growing-stage2, #grassblock-growing-stage3, #grassblock-growing-final {
+	left: 416px;
+	top: 192px;
+}
+
+#grassblock-growing-final {
+	transition: all 1.5s ease-in-out;
+	background-image: url(grassblock-u-192px.png);
+	width: 192px;
+	height: 192px;
+}
+
+#grassblock-growing-final.final {
+	left: 0px;
+	top: 288px;
+	width: 1024px;
+	height: 128px;
+	background-size: 128px 128px;
+	-webkit-animation: "moving-grassblock" 1s linear 1.5s infinite;
+}
+
+@-webkit-keyframes "moving-grassblock" {
+	from {
+		background-position-x: 0px;
+	}
+	to {
+		background-position-x: -128px;
+	}
+}
+
+#slime {
+	left: 448px;
+	top: -128px;
+	width: 128px;
+	height: 128px;
+	background-image: url(slime.png);
+	background-repeat: no-repeat;
+	transition: top 1s ease-in, left 4.5s linear;
+}
+
+#slime.fr0 {
+	background-position: 0px 0px;
+}
+
+#slime.fr1 {
+	background-position: -128px 0px;
+}
+
+#slime.fr2 {
+	background-position: -256px 0px;
+}
+
+#slime.fr3 {
+	background-position: -384px 0px;
+}
+
+#slime.fr4 {
+	background-position: -512px 0px;
+}
+
+#slime.fall-down, #green-gear.fall-down, #normal-button.fall-down, #yellow-button.fall-down {
+	top: 160px;
+}
+
+#slime.final, #green-gear.final, #normal-button.final, #yellow-button.final {
+	left: -128px;
+}
+
+#green-gear {
+	left: 960px;
+	top: -128px;
+	transition: top 1s ease-in, left 8.5s linear;
+}
+
+#normal-button, #yellow-button {
+	background-image: url(buttons.png);
+	background-repeat: no-repeat;
+	left: 960px;
+	top: -128px;
+	width: 128px;
+	height: 128px;
+	transition: top 1s ease-in, left 8.5s linear;
+}
+
+#normal-button {
+	background-position: 0px 0px;
+}
+
+#yellow-button {
+	background-position: 0px -128px;
+}
