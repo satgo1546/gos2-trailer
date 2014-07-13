@@ -22,25 +22,15 @@ var startTime = new Date().getTime(),
 		aBlackPanelD = $("#black-panel-d"),
 		aTitleButtons = $(".title-button"),
 		aSaveTitle = $("#save-title"),
-		aSaveSlots = $(".save-slot");
+		aSaveSlots = $(".save-slot"),
+		aEndingTitle = $("#ending-title"),
+		aEndingPlayer = $("#ending-player"),
+		aEndingFooter = $("#ending-footer"),
+		aEndingObjects = $("#ending-title, #ending-player, #ending-footer");
 
 function animeLog(info) {
 	aLogger.text(info);
 }
-
-/*function fadeIn() {
-	aFade.addClass("in");
-	setTimeout(function () {
-		animeLog("Faded in");
-	}, 400);
-}
-
-function fadeOut() {
-	aFade.removeClass("in");
-	setTimeout(function () {
-		animeLog("Faded out");
-	}, 400);
-}*/
 
 function countTime() {
 	var time = new Date().getTime();
@@ -71,6 +61,12 @@ $(function () {
 		aGrassBlockGrowingStage3.hide();
 		aGrassBlockGrowingFinal.hide();
 		drawSlime();
+		aEndingTitle.hide();
+		aEndingPlayer.hide();
+		aEndingFooter.hide();
+		aEndingObjects.on('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+			$(this).removeClass("animated zoomIn fadeInLeft flipInX fadeOut");
+		});
 	}, 1);
 	
 	setTimeout(function () {
@@ -225,10 +221,21 @@ $(function () {
 		aBgImg.removeClass("in");
 	}, 53500);
 	
-	/*
 	setTimeout(function () {
-		
-	}, );
+		aEndingTitle.show().addClass("animated zoomIn");
+		aEndingPlayer.show().addClass("animated fadeInLeft");
+	}, 54500);
 	
-	*/
+	setTimeout(function () {
+		aEndingFooter.show().addClass("animated flipInX");
+	}, 55500);
+	
+	setTimeout(function () {
+		aEndingObjects.addClass("animated fadeOut");
+	}, 59000);
+	
+	setTimeout(function () {
+		aEndingObjects.hide();
+		aStage.css("background-image", "none").children().remove();
+	}, 60000);
 });

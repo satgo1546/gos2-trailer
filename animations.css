@@ -376,3 +376,49 @@
 .save-slot.out {
 	top: -96px;
 }
+
+#ending-title {
+	left: 240px;
+	top: 32px;
+}
+
+#ending-player {
+	left: 32px;
+	top: 64px;
+}
+
+#ending-footer {
+	top: initial;
+	bottom: 0px;
+	width: 100%;
+	margin-bottom: 48px;
+	font-family: "M+ 1c heavy", sans-serif;
+	font-size: 32pt;
+	color: white;
+	-webkit-text-stroke: 2px rgba(0,0,0,.7);
+	text-shadow: 3px 3px 0px rgba(0,0,0,.5);
+	text-align: center;
+}
+
+#ending-footer a {
+	color: aliceblue;
+	-webkit-text-stroke: 2px rgba(0,191,255,.7);
+	text-decoration: none;
+}
+
+#ending-footer a:active {
+	position: relative;
+	left: 3px;
+	top: 3px;
+	text-shadow: none;
+	-webkit-text-stroke-color: transparent;
+	color: #00BFFF;
+}
+
+#ending-footer > div {
+	font-size: 24pt;
+}
+
+#ending-footer > div a {
+	letter-spacing: -2px;
+}
