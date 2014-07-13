@@ -143,58 +143,71 @@ $(function () {
 	}, 22500);
 	
 	setTimeout(function () {
+		// 24s
 		aSlime.addClass("fall-down");
 	}, 24000);
 	
 	setTimeout(function () {
+		// 25s
 		aSlime.addClass("final");
 		aGreenGear.addClass("fall-down");
 	}, 25000);
 	
 	setTimeout(function () {
+		// 26s
 		aGreenGear.addClass("final");
 	}, 26000);
 	
 	setTimeout(function () {
+		// 30s
 		aNormalButton.addClass("fall-down");
 	}, 30000);
 	
 	setTimeout(function () {
+		// 31s
 		aNormalButton.addClass("final");
 	}, 31000);
 	
 	setTimeout(function () {
+		// 35s
 		aYellowButton.addClass("fall-down");
 	}, 35000);
 	
 	setTimeout(function () {
+		// 36s
 		aYellowButton.addClass("final");
 	}, 36000);
 	
 	setTimeout(function () {
+		// 44.5s
 		aGrassBlockGrowingFinal.css("top", "576px");
 	}, 44500);
 	
 	setTimeout(function () {
+		// 46s
 		aDecorationsU.addClass("in");
 		aDecorationsD.addClass("in");
 	}, 46000);
 	
 	setTimeout(function () {
+		// 46.5s
 		aBgImg.addClass("in");
 	}, 46500);
 	
 	setTimeout(function () {
+		// 48s
 		aTitleText.addClass("in");
 	}, 48000);
 	
 	setTimeout(function () {
+		// 49s
 		aDecorationsD.css("top", "416px");
 		aBlackPanelD.addClass("in");
 		aTitleButtons.addClass("in");
 	}, 49000);
 	
 	setTimeout(function () {
+		// 50.5s
 		aTitleText.addClass("out");
 		aDecorationsD.css("top", "544px");
 		aBlackPanelD.removeClass("in");
@@ -204,37 +217,45 @@ $(function () {
 	}, 50500);
 	
 	setTimeout(function () {
+		// 51s
 		aSaveSlots.addClass("in");
 	}, 51000);
 	
 	setTimeout(function () {
+		// 52.5s
 		aSaveTitle.removeClass("in");
 		aSaveSlots.removeClass("in").addClass("out");
 	}, 52500);
 	
 	setTimeout(function () {
+		// 53s
 		aDecorationsU.removeClass("in");
 		aDecorationsD.css("top", "100%");
 	}, 53000);
 	
 	setTimeout(function () {
+		// 53.5s
 		aBgImg.removeClass("in");
 	}, 53500);
 	
 	setTimeout(function () {
+		// 54.5s
 		aEndingTitle.show().addClass("animated zoomIn");
 		aEndingPlayer.show().addClass("animated fadeInLeft");
 	}, 54500);
 	
 	setTimeout(function () {
+		// 55.5s
 		aEndingFooter.show().addClass("animated flipInX");
 	}, 55500);
 	
 	setTimeout(function () {
+		// 59s
 		aEndingObjects.addClass("animated fadeOut");
 	}, 59000);
 	
 	setTimeout(function () {
+		// 60s
 		aEndingObjects.hide();
 		aStage.css("background-image", "none").children().remove();
 	}, 60000);
